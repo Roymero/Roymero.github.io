@@ -510,7 +510,7 @@ header .socials ul li a:hover {
   background: url(../images/capture.png) center;
 }
 #projects .container .card3 {
-  background: url(../images/etch.png) center;
+  background: url(../images/library.png);
 }
 #projects .container .card4 {
   background: url(../images/weather.png) center;
@@ -660,7 +660,6 @@ header .socials ul li a:hover {
     padding: 6px 16px;
     font-size: 0.7rem;
   }
-
   #socials {
     top: 65%;
     left: -9.5rem;
@@ -668,14 +667,12 @@ header .socials ul li a:hover {
   #socials ul li a {
     font-size: 0.8rem;
   }
-
   #about #about-me h2 {
     font-size: 1.5rem;
   }
   #about #about-me p {
     font-size: 0.7rem;
   }
-
   #skills #header h2 {
     font-size: 1.5rem;
   }
@@ -683,7 +680,6 @@ header .socials ul li a:hover {
     height: 18rem;
     width: 14rem;
   }
-
   #projects #header h2 {
     font-size: 1.5rem;
   }
@@ -701,7 +697,6 @@ header .socials ul li a:hover {
     font-size: 0.7rem;
     padding: 2px 8px;
   }
-
   #resume h2 {
     font-size: 1.5rem;
   }
@@ -726,7 +721,6 @@ header .socials ul li a:hover {
     padding: 8px 24px;
     font-size: 0.8rem;
   }
-
   #about .container-about .about-me {
     width: 100%;
   }
@@ -737,7 +731,6 @@ header .socials ul li a:hover {
     font-size: 0.9rem;
     min-width: 70%;
   }
-
   #skills .header h2 {
     font-size: 1.8rem;
   }
@@ -760,7 +753,6 @@ header .socials ul li a:hover {
   #skills #container div {
     margin: 1.5rem auto;
   }
-
   #projects .header h2 {
     font-size: 1.8rem;
   }
@@ -789,7 +781,6 @@ header .socials ul li a:hover {
   #nav {
     min-height: 8vh;
   }
-
   .links {
     position: absolute;
     right: 0;
@@ -804,15 +795,12 @@ header .socials ul li a:hover {
   .links li {
     opacity: 0;
   }
-
   #home .fixed {
     background: #e43955;
   }
-
   .hamburger-menu {
     display: block !important;
   }
-
   #about .container-about {
     flex-direction: column;
   }
@@ -836,15 +824,12 @@ header .socials ul li a:hover {
     width: 40%;
     height: 40%;
   }
-
   #skills .header h2 {
     width: 70%;
   }
-
   #projects .header h2 {
     width: 70%;
   }
-
   #back-to-top {
     bottom: 6%;
     right: 5%;
